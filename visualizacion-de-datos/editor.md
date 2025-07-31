@@ -16,9 +16,13 @@ layout:
     visible: true
 ---
 
-# Elaboración de visualizaciones
+# Introducción
 
-GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
+Si tuvieses una tabla de datos con la evolución de matriculados durante 50 años, ¿qué harías para determinar si ese valor aumenta o decrece con el\
+tiempo? Existen múltiples maneras para ello, pero lo que sin duda sería más rápido es construir un gráfico de columnas o líneas con dichos valores\
+en el que **de un solo vistazo podamos detectar si hay alguna tendencia y cómo es esta**.
+
+Gracias a la visualización de datos podemos realizar representaciones gráficas de los datos que hacen posible que la información sea rápida y fácilmente comprensible. Mediante la observación podemos detectar patrones o tendencias, como el aumento o descenso de matriculados con el paso del tiempo, valores anómalos, como asignaturas con una mayor cantidad de aprobados o suspensos que el resto.
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
 

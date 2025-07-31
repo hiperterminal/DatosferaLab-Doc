@@ -18,34 +18,66 @@ layout:
 
 # Exploración general de los datos
 
-GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
+Con los datos preparados y revisados en una hoja de cálculo, llega el momento del análisis. Esta actividad la desarrollaremos entre las sesiones 6 y 7 de la siguiente manera:
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
 
-### Writing content
-
-GitBook offers a range of block types for you to add to your content inline — from simple text and tables, to code blocks and more. These elements will make your pages more useful to readers, and offer extra information and context.
-
-Either start typing below, or press `/` to see a list of the blocks you can insert into your page.
-
-### Add a new block
 
 {% stepper %}
 {% step %}
-#### Open the insert block menu
+Introducción mediante un seminario las principales técnicas de análisis de la herramienta escogida, trabajando en conjunto sobre el dataset de prueba
 
-Press `/` on your keyboard to open the insert block menu.
+
 {% endstep %}
 
 {% step %}
-#### Search for the block you need
+Puesta en común de los hallazgos o cuestiones que hayan podido llamar la atención durante las fases de recogida y limpieza de datos\
+para su exploración
 
-Try searching for “Stepper”, for exampe, to insert the stepper block.
+
 {% endstep %}
 
 {% step %}
-#### Insert and edit your block
+Elección de un método para el análisis principal de los datos
 
-Click or press Enter to insert your block. From here, you’ll be able to edit it as needed.
+
+{% endstep %}
+
+{% step %}
+Exploración y análisis de datos por parte delequipo coordinando su correcta realización y guiando en el proceso
+
+
+{% endstep %}
+
+{% step %}
+Validación de los resultados
+
+
 {% endstep %}
 {% endstepper %}
+
+Antes de llevar a cabo el análisis propiamente dicho, con el que pretendemos dar una respuesta clara a nuestro objetivo, es conveniente realizar una pequeña exploración para comprender y contextualizar mejor nuestros datos y los correspondientes resultados. Se trata de obtener una panorámica de los datos.
+
+Pongamos un supuesto. Nuestro objetivo es conocer cuántas horas estudian de promedio el alumnado por curso y para ello hemos hecho una encuesta, que no todo el mundo ha respondido. Antes de calcular los distintos promedios, saber\
+cuántas personas han respondido es importante, pues puede darse el caso de cursos que hayan tenido una elevada tasa de respuesta mientras que en otros solo han participado unas pocas personas. Conocer el número de estudiantes y el porcentaje de respuestas por clase nos permitirá saber el tamaño del estudio y si los datos son suficientemente representativos.
+
+Para realizar la exploración debemos revisar los datos y describir su distribución. Esta es otra buena oportunidad para aprender a hacer una lectura e interpretación correcta de los datos. Algunas preguntas que pueden ser útiles para guiar un poco este proceso son:
+
+• **¿Qué representan los datos?**
+
+\
+**• ¿Cuántos elementos estamos analizando?**
+
+\
+**• ¿Cuántas variables tienen?**
+
+\
+**• ¿Faltan datos?**
+
+\
+**• ¿Los datos están organizados en grupos?**
+
+\
+**• ¿Existen valores extremos?**
+
+\
+**• ¿Cuáles son los valores máximos y mínimos?**

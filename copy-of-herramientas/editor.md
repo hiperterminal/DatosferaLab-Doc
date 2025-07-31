@@ -16,10 +16,6 @@ layout:
     visible: true
 ---
 
-# Visualización
+# Almacenamiento
 
-[Tableau Public ](https://public.tableau.com/)
-
-[Datawrapper](https://www.datawrapper.de/)
-
-Historipedia\
+[Google Drive](https://drive.google.com/)\

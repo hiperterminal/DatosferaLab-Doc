@@ -28,8 +28,15 @@
 
 ## Visualización de datos
 
-* [Elaboración de visualizaciones](visualizacion-de-datos/editor.md)
+* [Introducción](visualizacion-de-datos/editor.md)
+* [Elaboración de visualizaciones](visualizacion-de-datos/editor-1.md)
 
 ## Herramientas
 
-* [Elaboración de visualizaciones](herramientas/editor.md)
+* [Visualización](herramientas/editor.md)
+* [Procesamiento de datos](herramientas/editor-1.md)
+
+## Copy of Herramientas
+
+* [Almacenamiento](copy-of-herramientas/editor.md)
+* [Procesamiento de datos](copy-of-herramientas/editor-1.md)

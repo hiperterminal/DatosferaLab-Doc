@@ -16,10 +16,15 @@ layout:
     visible: true
 ---
 
-# Visualización
+# Procesamiento de datos
 
-[Tableau Public ](https://public.tableau.com/)
+LibreOffice
 
-[Datawrapper](https://www.datawrapper.de/)
+Google Sheets
 
-Historipedia\
+Openrefine&#x20;
+
+quickstatements
+
+\
+\

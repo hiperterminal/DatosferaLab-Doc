@@ -18,23 +18,9 @@ layout:
 
 # Análisis principal
 
-GitBook supports many different types of content, and is backed by Markdown — meaning you can copy and paste any existing Markdown files directly into the editor!
+Cuando nos hayamos familiarizado con los datos y los conozcamos suficientemente daremos paso al análisis principal. En esta ocasión sí partimos\
+con un **objetivo y pregunta clara** a la que queremos dar respuesta. Es por ello por lo que este análisis está mucho más dirigido y debe de haberse fijado de antemano el método a emplear. Existen varios métodos estadísticos básicos y que pueden ser usados en múltiples contextos.
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/markdown-hero.png" alt=""><figcaption></figcaption></figure>
+Una cuestión que no debe pasarse por alto en este análisis es la **validación por parte de expertos**. Si estamos analizando la evolución del número de matriculaciones de nuestro centro, una vez tengamos los resultados debemos consultar con la persona responsable para que no solo nos confirme si existen errores en el análisis y sus resultados, sino que nos ofrezca una lectura valiosa de los mismos.
 
-Feel free to test it out and copy the Markdown below by hovering over the code block in the upper right, and pasting into a new line underneath.
-
-```markdown
-# Heading
-
-This is some paragraph text, with a [link](https://docs.gitbook.com) to our docs. 
-
-## Heading 2
-- Point 1
-- Point 2
-- Point 3
-```
-
-{% hint style="info" %}
-If you have multiple files, GitBook makes it easy to import full repositories too — allowing you to keep your GitBook content in sync.
-{% endhint %}
+<figure><img src="../.gitbook/assets/TABL2.png" alt=""><figcaption></figcaption></figure>
