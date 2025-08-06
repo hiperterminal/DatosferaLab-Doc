@@ -23,3 +23,8 @@ layout:
 [Datawrapper](https://www.datawrapper.de/)
 
 Historipedia\
+
+
+* [Tableau public](https://public.tableau.com/app/discover)
+* [Gephi](https://gephi.org/)
+* [Cosmograph](https://cosmograph.app/)
