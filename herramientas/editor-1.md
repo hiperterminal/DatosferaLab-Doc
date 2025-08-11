@@ -16,17 +16,17 @@ layout:
     visible: true
 ---
 
-# Procesamiento de datos
+# Visualización
 
-LibreOffice
+[Tableau Public ](https://public.tableau.com/)
 
-Google Sheets
+[Datawrapper](https://www.datawrapper.de/)
 
-Openrefine&#x20;
+[Historipedia](https://js.histropedia.com/)\
 
-quickstatements
 
-Antconc
+[Tableau public](https://public.tableau.com/app/discover)
 
-\
-\
+[Gephi](https://gephi.org/)
+
+[Cosmograph](https://cosmograph.app/)

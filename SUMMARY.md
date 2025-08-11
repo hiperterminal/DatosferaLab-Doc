@@ -33,13 +33,9 @@
 
 ## Herramientas
 
-* [Visualización](herramientas/editor.md)
-* [Procesamiento de datos](herramientas/editor-1.md)
-
-## Copy of Herramientas
-
-* [Almacenamiento](copy-of-herramientas/editor.md)
-* [Procesamiento de datos](copy-of-herramientas/editor-1.md)
+* [Almacenamiento](herramientas/editor.md)
+* [Visualización](herramientas/editor-1.md)
+* [Procesamiento de datos](herramientas/editor-2.md)
 
 ***
 

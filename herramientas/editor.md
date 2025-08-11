@@ -16,17 +16,6 @@ layout:
     visible: true
 ---
 
-# Visualización
+# Almacenamiento
 
-[Tableau Public ](https://public.tableau.com/)
-
-[Datawrapper](https://www.datawrapper.de/)
-
-[Historipedia](https://js.histropedia.com/)\
-
-
-[Tableau public](https://public.tableau.com/app/discover)
-
-[Gephi](https://gephi.org/)
-
-[Cosmograph](https://cosmograph.app/)
+[Google Drive](https://drive.google.com/)\
