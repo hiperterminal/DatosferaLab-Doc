@@ -18,13 +18,13 @@ layout:
 
 # Procesamiento de datos
 
-LibreOffice
+[LibreOffice](https://es.libreoffice.org/)
 
-Google Sheets
+[Google Sheets](https://www.google.com/aclk?sa=L\&ai=DChsSEwibwY_QzIGPAxWmo1oFHWeeC-kYACICCAEQABoCdnU\&co=1\&ase=2\&cce=2\&category=acrcp_v1_37\&sig=AOD64_21EFPPAqSNPzLASoaNLSRAaAdYwg\&q\&nis=4\&adurl\&ved=2ahUKEwi5-4nQzIGPAxUhRjABHcWtL_EQ0Qx6BAgJEAE)
 
-Openrefine&#x20;
+[Openrefine ](https://openrefine.org/)
 
-quickstatements
+[quickstatements](https://quickstatements.toolforge.org/)
 
 \
 \
