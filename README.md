@@ -12,54 +12,53 @@ Debemos tener claro por ello desde el inicio, si vamos a centrar nuestro data la
 
 ## [Ciencias De Datos](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/quickstart)
 
-[**De la sociedad de la información a la del conocimiento**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/quickstart)
+* [**De la sociedad de la información a la del conocimiento**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/quickstart)
 
-[**El Valor de los Datos**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/publish-your-docs)
+* [**El Valor de los Datos**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/publish-your-docs)
 
-[**Que es la ciencia de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/que-es-la-ciencia-de-datos)
+* [**Que es la ciencia de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/que-es-la-ciencia-de-datos)
 
-[**Los Datos y sus Formatos**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/los-datos-y-sus-formatos)
+* [**Los Datos y sus Formatos**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/los-datos-y-sus-formatos)
 
 
 ## [Recopilación de Datos](https://wikimediacolombia.gitbook.io/datosferalab/recopilacion-de-datos/editor)
 
-[**Recogida de datos**](https://wikimediacolombia.gitbook.io/datosferalab/recopilacion-de-datos/editor)
+* [**Recogida de datos**](https://wikimediacolombia.gitbook.io/datosferalab/recopilacion-de-datos/editor)
 
-[**Solicitud de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/recopilacion-de-datos/markdown)
+* [**Solicitud de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/recopilacion-de-datos/markdown)
 
-[**Busqueda de Datis Publicos**](https://wikimediacolombia.gitbook.io/datosferalab/recopilacion-de-datos/images-and-media)
+* [**Busqueda de Datis Publicos**](https://wikimediacolombia.gitbook.io/datosferalab/recopilacion-de-datos/images-and-media)
 
 ## [**Limpieza de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/limpieza-de-datos/editor)
 
 
-[**Introduciión**](https://wikimediacolombia.gitbook.io/datosferalab/limpieza-de-datos/editor)
+* [**Introduciión**](https://wikimediacolombia.gitbook.io/datosferalab/limpieza-de-datos/editor)
 
-[**Importación de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/limpieza-de-datos/editor-1)
+* [**Importación de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/limpieza-de-datos/editor-1)
 
-[**Problemas de los Datos**](https://wikimediacolombia.gitbook.io/datosferalab/limpieza-de-datos/markdown)
+* [**Problemas de los Datos**](https://wikimediacolombia.gitbook.io/datosferalab/limpieza-de-datos/markdown)
 
 
 ## [**Analicis de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/analisis-de-datos/editor)
 
-[**Exploración general de los datos**](https://wikimediacolombia.gitbook.io/datosferalab/analisis-de-datos/editor)
+* [**Exploración general de los datos**](https://wikimediacolombia.gitbook.io/datosferalab/analisis-de-datos/editor)
 
-
-[**Análisis principal**](https://wikimediacolombia.gitbook.io/datosferalab/analisis-de-datos/markdown)
+* [**Análisis principal**](https://wikimediacolombia.gitbook.io/datosferalab/analisis-de-datos/markdown)
 
 ## [**Visualización de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/visualizacion-de-datos/editor)
 
-[**Introducción**](https://wikimediacolombia.gitbook.io/datosferalab/visualizacion-de-datos/editor)
+* [**Introducción**](https://wikimediacolombia.gitbook.io/datosferalab/visualizacion-de-datos/editor)
 
-[**Elaboración de visualizaciones**](https://wikimediacolombia.gitbook.io/datosferalab/visualizacion-de-datos/editor-1)
+* [**Elaboración de visualizaciones**](https://wikimediacolombia.gitbook.io/datosferalab/visualizacion-de-datos/editor-1)
 
 
 ## [**Herramientas**]()
 
-[**Almacenamiento**](https://wikimediacolombia.gitbook.io/datosferalab/herramientas/editor)
+* [**Almacenamiento**](https://wikimediacolombia.gitbook.io/datosferalab/herramientas/editor)
 
-[**Visualización**](https://wikimediacolombia.gitbook.io/datosferalab/herramientas/editor-1)
+* [**Visualización**](https://wikimediacolombia.gitbook.io/datosferalab/herramientas/editor-1)
 
-[**Procesamiento de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/herramientas/editor-2)
+* [**Procesamiento de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/herramientas/editor-2)
 
 
 # [**Material de Consulta**](https://wikimediacolombia.gitbook.io/datosferalab/material-de-consulta)
