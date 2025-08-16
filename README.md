@@ -39,7 +39,7 @@ Debemos tener claro por ello desde el inicio, si vamos a centrar nuestro data la
 * [**Problemas de los Datos**](https://wikimediacolombia.gitbook.io/datosferalab/limpieza-de-datos/markdown)
 
 
-## [**Analicis de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/analisis-de-datos/editor)
+## [**Analisis de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/analisis-de-datos/editor)
 
 * [**Exploración general de los datos**](https://wikimediacolombia.gitbook.io/datosferalab/analisis-de-datos/editor)
 
