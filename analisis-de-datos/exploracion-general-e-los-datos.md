@@ -20,38 +20,26 @@ layout:
 
 Con los datos preparados y revisados en una hoja de cálculo, llega el momento del análisis. Esta actividad la desarrollaremos entre las sesiones 6 y 7 de la siguiente manera:
 
-
-
 {% stepper %}
 {% step %}
 Introducción mediante un seminario las principales técnicas de análisis de la herramienta escogida, trabajando en conjunto sobre el dataset de prueba
-
-
 {% endstep %}
 
 {% step %}
 Puesta en común de los hallazgos o cuestiones que hayan podido llamar la atención durante las fases de recogida y limpieza de datos\
 para su exploración
-
-
 {% endstep %}
 
 {% step %}
 Elección de un método para el análisis principal de los datos
-
-
 {% endstep %}
 
 {% step %}
 Exploración y análisis de datos por parte delequipo coordinando su correcta realización y guiando en el proceso
-
-
 {% endstep %}
 
 {% step %}
 Validación de los resultados
-
-
 {% endstep %}
 {% endstepper %}
 
@@ -65,19 +53,19 @@ Para realizar la exploración debemos revisar los datos y describir su distribuc
 • **¿Qué representan los datos?**
 
 \
-**• ¿Cuántos elementos estamos analizando?**
+&#xNAN;**• ¿Cuántos elementos estamos analizando?**
 
 \
-**• ¿Cuántas variables tienen?**
+&#xNAN;**• ¿Cuántas variables tienen?**
 
 \
-**• ¿Faltan datos?**
+&#xNAN;**• ¿Faltan datos?**
 
 \
-**• ¿Los datos están organizados en grupos?**
+&#xNAN;**• ¿Los datos están organizados en grupos?**
 
 \
-**• ¿Existen valores extremos?**
+&#xNAN;**• ¿Existen valores extremos?**
 
 \
-**• ¿Cuáles son los valores máximos y mínimos?**
+&#xNAN;**• ¿Cuáles son los valores máximos y mínimos?**
