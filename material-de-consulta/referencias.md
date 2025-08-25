@@ -1,4 +1,22 @@
-# Material de Consulta
+---
+icon: pen-to-square
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
+# Referencias
 
 [<kbd>La causa de los datos En busca de una agenda común para América Latina</kbd>](https://cdn.prod.website-files.com/623cf23ab4be545a1e504dba/67d2ee04c2a096abde899b7c_La%20causa%20de%20los%20datos_WP%20\(1\).pdf)
 

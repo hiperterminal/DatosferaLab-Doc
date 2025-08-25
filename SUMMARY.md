@@ -37,6 +37,7 @@
 * [Visualización](herramientas/visualizacion.md)
 * [Procesamiento de datos](herramientas/procesamiento-de-datos.md)
 
-***
+## Material de Consulta
 
-* [Material de Consulta](material-de-consulta.md)
+* [Referencias](material-de-consulta/referencias.md)
+* [S-250424](material-de-consulta/s-250424.md)
