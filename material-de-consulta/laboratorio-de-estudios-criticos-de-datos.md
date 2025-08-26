@@ -130,3 +130,7 @@ layout:
 [**Repositorio de código para generación de bigramas**](https://github.com/abregation/vik_data)
 
 ![](https://docutopia.sustrato.red/uploads/e94356a3-0e89-4bdc-b81b-f0e95fee4e9e.png)
+
+
+
+Agradecimientos al Profesor Victor Ábrego por compartirnos este material !
