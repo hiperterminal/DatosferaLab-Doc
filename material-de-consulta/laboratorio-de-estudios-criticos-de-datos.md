@@ -42,9 +42,10 @@ layout:
 ***
 
 *
-  2. Pegar esto como URL para instalar extensión: :::info `about:debugging#/runtime/this-firefox`
 
-:::
+    2. Pegar esto como URL para instalar extensión:&#x20;
+
+    &#x20;`about:debugging#/runtime/this-firefox`
 
 ![](https://docutopia.sustrato.red/uploads/3839d298-8f87-4a78-8853-fc7e99ec99db.png)
 
