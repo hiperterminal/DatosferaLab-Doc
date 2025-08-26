@@ -40,4 +40,4 @@
 ## Material de Consulta
 
 * [Referencias](material-de-consulta/referencias.md)
-* [S-250424](material-de-consulta/s-250424.md)
+* [Laboratorio de Estudios Críticos de Datos](material-de-consulta/laboratorio-de-estudios-criticos-de-datos.md)
