@@ -78,7 +78,14 @@ layout:
 
 [- Canal de YouTube de Bernhard Rieder](https://www.youtube.com/@BernhardRiederAmsterdam) ![](https://docutopia.sustrato.red/uploads/bfbc5cd6-32fe-4667-add7-9fc7aa67fda8.png)
 
+
+
+
+
 * [Blog de herramientas](https://www.youtube.com/@BernhardRiederAmsterdam) ![](https://docutopia.sustrato.red/uploads/791e63a7-2c1d-421c-87e1-99c978b6856d.png)
+
+
+
 * Libro [Engines of order](https://monoskop.org/images/9/97/Rieder_Bernhard_Engines_of_Order_A_Mechanology_of_Algorithmic_Techniques_2020.pdf) ![](https://docutopia.sustrato.red/uploads/c1440d54-63ad-48b6-9057-3e9b463f78d7.png)
 
 ***
@@ -91,19 +98,19 @@ layout:
 
 ## Sesión 3
 
-:::info Enlaces para herramientas de visualización de datos: :::
+&#x20;**Enlaces para herramientas de visualización de datos:**
 
 * [Tableau public](https://public.tableau.com/app/discover)
 * [Gephi](https://gephi.org/)
 * [Cosmograph](https://cosmograph.app/)
 
-:::danger ¿Olvidaste tus datasets? [Aquí puedes descargar](https://drive.google.com/drive/folders/1OBJXxX-ylZCG54bOQ-FIEXIwVBlDoGhk?usp=sharing) algunos para la sesión :::
+&#x20;**¿Olvidaste tus datasets?** [**Aquí puedes descargar**](https://drive.google.com/drive/folders/1OBJXxX-ylZCG54bOQ-FIEXIwVBlDoGhk?usp=sharing) **algunos para la sesión**&#x20;
 
 ***
 
 ## Sesión 4
 
-:::info Herramientas de procesamiento y posprocesamiento de texto :::
+&#x20;**Herramientas de procesamiento y posprocesamiento de texto**
 
 * [Antconc](https://www.laurenceanthony.net/software/antconc/)
 
@@ -113,7 +120,7 @@ layout:
 
 ## Sesión 5
 
-:::info [Descarga de transcripciones de YouTube](https://colab.research.google.com/github/ArthurFDLR/whisper-youtube/blob/main/whisper_youtube.ipynb)
+[**Descarga de transcripciones de YouTube**](https://colab.research.google.com/github/ArthurFDLR/whisper-youtube/blob/main/whisper_youtube.ipynb)
 
 ![](https://docutopia.sustrato.red/uploads/013a633d-a964-4d7b-ac50-4fccee19a43d.png)
 
@@ -121,8 +128,6 @@ layout:
 
 ***
 
-:::success [Repositorio de código para generación de bigramas](https://github.com/abregation/vik_data)
+[**Repositorio de código para generación de bigramas**](https://github.com/abregation/vik_data)
 
 ![](https://docutopia.sustrato.red/uploads/e94356a3-0e89-4bdc-b81b-f0e95fee4e9e.png)
-
-:::
