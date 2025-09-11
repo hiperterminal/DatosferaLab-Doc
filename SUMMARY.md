@@ -40,4 +40,5 @@
 ## Material de Consulta
 
 * [Referencias](material-de-consulta/referencias.md)
+* [Tutoriales WikiData](material-de-consulta/tutoriales-wikidata.md)
 * [Laboratorio de Estudios Críticos de Datos](material-de-consulta/laboratorio-de-estudios-criticos-de-datos.md)
